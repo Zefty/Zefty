@@ -6,7 +6,7 @@ I’ve worked across fintech and startups, with professional experience in C#/.N
 
 I keep my skills sharp through side projects using modern web technologies like Next.js and TypeScript.
 
-🔗 Portfolio: [pengwu.vercel.app](pengwu.vercel.app)
+🔗 Portfolio: https://pengwu.vercel.app/
 
 <!--
 **Zefty/Zefty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
