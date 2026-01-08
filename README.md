@@ -1,4 +1,12 @@
-### Hi there 👋
+### About Me
+
+Hi, I’m Jaime, a full-stack developer based in Auckland, New Zealand — eyeing the classic Kiwi move across the Tasman.
+
+I’ve worked across fintech and startups, with professional experience in C#/.NET and AWS. These days, I’m focused on DevOps and developer tooling at Kiwibank.
+
+I keep my skills sharp through side projects using modern web technologies like Next.js and TypeScript.
+
+🔗 Portfolio: [pengwu.vercel.app](pengwu.vercel.app)
 
 <!--
 **Zefty/Zefty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
